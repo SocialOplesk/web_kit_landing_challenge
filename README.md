@@ -2,7 +2,7 @@
 ### 💼 KIT 
 <br/>
 
-## ⚡️ Kit React Form⚡️
+## ⚡️ Kit Landing Challenge⚡️
 <br/> 
 
 ## 🏆 K-1 (Web)
@@ -91,3 +91,7 @@ Web
 </body>
 </html>
 ```
+
+---
+<h3 align="center">SOCIAL OPLESK</h3>
+
